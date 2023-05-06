@@ -17,9 +17,10 @@
 
 //Ejercicio 2 "Generar una funcion para Comparar 2 array y generar uno nuevo con los elementos que coniciden"
 
-let matr1 = [3, 7, 9, 11];
-let matr2 = [3, 12, 7, 19];
+let matr1 = [3, 7, 9, 11, 26];
+let matr2 = [3, 12, 7, 19, 26];
 let arrRepetidos=[];
+
 
 function compararMatriz(matriz1, matriz2){
    for(let i=0; i < matriz1.length ; i++)

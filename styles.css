@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(./Imagenes/bg-palm.jpg);
+}
+.container{
+    padding: auto;
+    display: flex;
+    background-color: cadetblue;
+    justify-content: center;
+}
